@@ -2,7 +2,7 @@
 
 Welcome to my data visualization portfolio! Below are some of my Tableau Public visualizations:
 
-## Visualization 1
+## Blueprint of Sales & Profits Trend of Categories over Time
 [View Visualization 1](https://public.tableau.com/views/BlueprintofsalesandprofittrendsofCategoriesovertime_/StoryofsalesforTablesovertime?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
