@@ -9,5 +9,7 @@ Welcome to my data visualization portfolio! Below are some of my Tableau Public 
 # Census of Employment and Wages (QCEW) Annual Data
 [View Visualization](https://public.tableau.com/views/CensusofEmploymentandWagesQCEWAnnualData/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+# Examples of Calculated Fields in Tableau
+[View Visualization](https://public.tableau.com/views/ExamplesofCalculatedFields/SplittingtheCustomerNameusingLeftandMidFunctions?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ...
