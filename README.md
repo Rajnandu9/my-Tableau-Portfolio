@@ -11,4 +11,7 @@ Welcome to my data visualization portfolio! Below are some of my Tableau Public 
 
 # Examples of Calculated Fields in Tableau
 [View Visualization](https://public.tableau.com/views/ExamplesofCalculatedFields/SplittingtheCustomerNameusingLeftandMidFunctions?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-...
+
+# ABP News Correlation Analysis compared to top 100 YouTube channels in 2023
+
+[View Visualization](https://public.tableau.com/views/Top100YoutubechannelsMetricsanalysis/ABPNewsCorrelationAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
